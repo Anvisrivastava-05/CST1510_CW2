@@ -1,0 +1,501 @@
+magnitude,place,time,tsunami,significance,type
+5.3,"83 km ESE of Hengchun, Taiwan",1795596436394,0,432,earthquake
+2.71,"13 km S of Arroyo, Puerto Rico",1795592465890,0,113,earthquake
+4.4,"20 km S of Weston, Colorado",1795592444054,0,313,earthquake
+5.2,"175 km N of Hicks Bay, New Zealand",1795588448672,0,416,earthquake
+3.12,"51 km N of San Juan, Puerto Rico",1795586170090,0,150,earthquake
+2.91,"70 km N of San Juan, Puerto Rico",1795585248740,0,130,earthquake
+4.7,"178 km ESE of Kimbe, Papua New Guinea",1795581032480,0,340,earthquake
+2.5,"57 km ENE of Whittier, Alaska",1795579606742,0,96,earthquake
+3.76,"21 km SW of San Rafael del Yuma, Dominican Republic",1795573420010,0,218,earthquake
+3.0,"98 km NE of Miches, Dominican Republic",1795573416794,0,138,earthquake
+3.0,"47 km W of Karluk, Alaska",1795573029606,0,138,earthquake
+2.6,"62 km W of Tyonek, Alaska",1795571977190,0,104,earthquake
+5.9,Balleny Islands region,1795570725672,0,536,earthquake
+2.8,"87 km SE of Akutan, Alaska",1795569613575,0,121,earthquake
+4.3,"69 km SSW of Shihezi, China",1795569596424,0,284,earthquake
+2.57,"49 km S of Hawaiian Ocean View, Hawaii",1795567773780,0,102,earthquake
+3.5,"240 km SSW of Adak, Alaska",1795564338150,0,188,earthquake
+4.7,"2 km NNW of Cabatuan, Philippines",1795562995097,0,343,earthquake
+2.5,"69 km ESE of Denali National Park, Alaska",1795561096413,0,96,earthquake
+4.5,"64 km W of San Juan, Peru",1795559790355,0,312,earthquake
+2.8,"56 km NW of Dutch Harbor, Alaska",1795556202151,0,121,earthquake
+3.3,"7 km SW of Fox River, Alaska",1795556151670,0,169,earthquake
+2.7,"51 km S of Chiniak, Alaska",1795555518524,0,112,earthquake
+5.0,"209 km SE of Kokopo, Papua New Guinea",1795554701618,0,385,earthquake
+2.8,"19 km S of Nixon, Texas",1795553329586,0,121,earthquake
+3.3,"15 km W of Nikiski, Alaska",1795553323436,0,168,earthquake
+3.39,"38 km SSE of Boca de Yuma, Dominican Republic",1795552884350,0,177,earthquake
+4.6,"49 km SW of Ovalle, Chile",1795552077411,0,326,earthquake
+2.7,"133 km E of Chignik, Alaska",1795548552272,0,112,earthquake
+2.5,"32 km SW of Lake Minchumina, Alaska",1795548260450,0,96,earthquake
+4.3,"12 km S of Changning, China",1795546046086,0,284,earthquake
+2.9,"10 km WSW of Point MacKenzie, Alaska",1795544919411,0,130,earthquake
+2.6,"42 km W of Nanwalek, Alaska",1795543717204,0,104,earthquake
+2.8,"88 km SSE of Sand Point, Alaska",1795542142686,0,121,earthquake
+2.5,"128 km WSW of Adak, Alaska",1795540751533,0,96,earthquake
+4.4,"15 km SW of Kobayashi, Japan",1795538461365,0,298,earthquake
+4.2,"10 km WSW of Point MacKenzie, Alaska",1795538251591,0,629,earthquake
+2.54,"27 km SW of Laupāhoehoe, Hawaii",1795537580580,0,99,earthquake
+4.2,"14 km SSE of Kónitsa, Greece",1795535722846,0,271,earthquake
+4.7,"18 km ESE of Güvercinlik, Turkey",1795534783392,0,340,earthquake
+3.3,"92 km SW of Nikolski, Alaska",1795534611362,0,168,earthquake
+3.3,"171 km SSE of Atka, Alaska",1795531290739,0,168,earthquake
+3.73,"72 km N of Charlotte Amalie, U.S. Virgin Islands",1795529514950,0,214,earthquake
+4.8,"71 km W of Vallenar, Chile",1795526558945,0,354,earthquake
+5.0,"24 km WNW of Piti Village, Guam",1795521313018,0,385,earthquake
+5.2,"93 km WSW of Puerto Madero, Mexico",1795521104702,0,416,earthquake
+3.0,"17 km S of Nixon, Texas",1795518907349,0,138,earthquake
+6.4,Mauritius - Reunion region,1795518374036,0,630,earthquake
+3.1,"31 km NNE of Stevens Village, Alaska",1795516188548,0,148,earthquake
+2.5,"16 km S of Nixon, Texas",1795512914034,0,96,earthquake
+2.7,"16 km S of Nixon, Texas",1795511385540,0,112,earthquake
+3.4,"17 km E of Clam Gulch, Alaska",1795510627301,0,178,earthquake
+2.6,"7 km ESE of Portage Creek, Alaska",1795508069883,0,104,earthquake
+3.7,"44 km SSW of Adak, Alaska",1795506214121,0,211,earthquake
+2.7,"17 km S of Nixon, Texas",1795501448390,0,112,earthquake
+2.57,"5 km S of Guánica, Puerto Rico",1795499158390,0,102,earthquake
+2.5,"51 km NW of Beluga, Alaska",1795496279924,0,96,earthquake
+2.7,"51 km SSE of Port Graham, Alaska",1795496054496,0,112,earthquake
+3.37,"57 km W of Petrolia, CA",1795495900750,0,175,earthquake
+2.5,"89 km W of Salamatof, Alaska",1795495537298,0,96,earthquake
+2.8,"63 km E of Chignik, Alaska",1795494506758,0,121,earthquake
+3.4,"22 km N of Hatillo, Puerto Rico",1795493712000,0,178,earthquake
+2.81,"71 km N of Tierras Nuevas Poniente, Puerto Rico",1795493337750,0,121,earthquake
+2.5,"40 km W of Salamatof, Alaska",1795492081372,0,96,earthquake
+4.4,"153 km N of Likisá, Timor Leste",1795489944992,0,298,earthquake
+2.99,"7 km NW of Pinnacles, CA",1795488899250,0,138,earthquake
+2.6,"119 km SSE of Ugashik, Alaska",1795488506199,0,104,earthquake
+3.27,"2 km WNW of Pāhala, Hawaii",1795487821380,0,165,earthquake
+4.3,"27 km S of Surab, Pakistan",1795486585675,0,284,earthquake
+2.7,"111 km E of Chignik, Alaska",1795485729029,0,112,earthquake
+3.26,"104 km NNE of Cruz Bay, U.S. Virgin Islands",1795485656730,0,164,earthquake
+4.5,"9 km NNW of La Tronosa, Panama",1795485357417,0,312,earthquake
+5.3,"67 km WNW of Mangan, India",1795483962417,0,455,earthquake
+2.81,"4 km W of Fuig, Puerto Rico",1795480723520,0,121,earthquake
+3.9,"4 km SSE of Hoback, Wyoming",1795478997793,0,315,earthquake
+2.55,"13 km SSW of Kapaau, Hawaii",1795474945780,0,100,earthquake
+3.2,"109 km NNE of Arctic Village, Alaska",1795474074673,0,158,earthquake
+4.6,"130 km SSW of Merizo Village, Guam",1795469133408,0,326,earthquake
+3.7,"33 km ENE of Nelson Lagoon, Alaska",1795467389960,0,211,earthquake
+4.4,"63 km SSW of Nikolski, Alaska",1795466091026,0,298,earthquake
+2.8,"25 km SW of Ackerly, Texas",1795461287761,0,121,earthquake
+2.6,"49 km NW of Ninilchik, Alaska",1795460097336,0,104,earthquake
+2.9,"27 km S of Denali National Park, Alaska",1795456582168,0,129,earthquake
+4.2,"286 km NW of Houma, Tonga",1795455539062,0,271,earthquake
+4.4,"240 km SW of Tual, Indonesia",1795449343269,0,298,earthquake
+4.7,South Sandwich Islands region,1795446657877,0,340,earthquake
+2.6,"53 km SSE of Kokhanok, Alaska",1795437726050,0,104,earthquake
+3.6,"185 km SE of Attu Station, Alaska",1795437662710,0,199,earthquake
+3.3,"99 km SSW of Sand Point, Alaska",1795437593166,0,168,earthquake
+2.6,"20 km NNW of Midland, Texas",1795437122085,0,104,earthquake
+3.43,"14 km SW of Newport Beach, CA",1795435068960,0,351,earthquake
+3.3,"52 km ENE of Shaktoolik, Alaska",1795434613383,0,168,earthquake
+2.64,"2 km SSE of Lima, Montana",1795434440170,0,107,earthquake
+4.8,"209 km SSE of Tobi Village, Palau",1795433071100,0,354,earthquake
+4.6,"30 km SW of Finschhafen, Papua New Guinea",1795430366056,0,326,earthquake
+4.7,"52 km SW of Tyrma, Russia",1795430360320,0,340,earthquake
+2.91,"9 km NW of Pinnacles, CA",1795428066780,0,131,earthquake
+4.5,Vanuatu region,1795426510713,0,312,earthquake
+2.6,"58 km WNW of Akhiok, Alaska",1795425964753,0,104,earthquake
+2.6,"60 km WNW of Akhiok, Alaska",1795425319927,0,104,earthquake
+4.3,Fiji region,1795425086948,0,284,earthquake
+2.7,"7 km SSW of Elmendorf Air Force Base, Alaska",1795424778292,0,114,earthquake
+3.1,"65 km ENE of Ouzinkie, Alaska",1795421865860,0,148,earthquake
+4.2,"34 km NW of Kuqa, China",1795421404212,0,271,earthquake
+5.5,west of Macquarie Island,1795420886457,0,465,earthquake
+2.9,"1 km SE of Lima, Montana",1795420578913,0,130,earthquake
+5.4,"181 km NE of Lospalos, Timor Leste",1795419381052,0,449,earthquake
+2.7,"93 km SE of Chignik, Alaska",1795418456372,0,112,earthquake
+4.5,"Kepulauan Babar, Indonesia",1795416456803,0,312,earthquake
+3.4,"0 km S of Isola, Mississippi",1795416437740,0,199,earthquake
+2.7,"96 km WSW of Karluk, Alaska",1795415546310,0,112,earthquake
+4.7,"109 km E of Bitung, Indonesia",1795415312358,0,340,earthquake
+4.6,"158 km SE of Severo-Kuril’sk, Russia",1795411348689,0,326,earthquake
+3.2,"6 km W of Hermosa Beach, CA",1795411061120,0,498,earthquake
+4.3,"218 km ENE of Lospalos, Timor Leste",1795410943178,0,284,earthquake
+5.0,"159 km ESE of Kokopo, Papua New Guinea",1795407499641,0,385,earthquake
+2.7,"48 km NE of Chase, Alaska",1795404720575,0,112,earthquake
+4.9,Vanuatu region,1795403272031,0,369,earthquake
+2.5,"3 km S of Guadalupe Victoria, B.C., MX",1795402998930,0,96,earthquake
+6.5,Vanuatu region,1795401658052,1,650,earthquake
+2.51,"15 km NW of Pinnacles, CA",1795400744990,0,97,earthquake
+4.9,"39 km NW of Kuqa, China",1795400099561,0,369,earthquake
+2.6,"69 km SE of Pope-Vannoy Landing, Alaska",1795392938606,0,104,earthquake
+4.7,"221 km NE of Bitung, Indonesia",1795392480906,0,340,earthquake
+4.7,"226 km NW of Tobelo, Indonesia",1795391444048,0,340,earthquake
+4.2,"33 km WSW of Pánormos, Greece",1795390969074,0,271,earthquake
+2.8,"9 km NW of Pinnacles, CA",1795390256600,0,121,earthquake
+2.7,"85 km W of Akhiok, Alaska",1795389856401,0,112,earthquake
+4.9,"170 km WNW of Port-Olry, Vanuatu",1795384695571,0,369,earthquake
+4.5,"54 km NNE of Calama, Chile",1795384052112,0,312,earthquake
+5.4,"9 km N of Carhuamayo, Peru",1795383331763,0,456,earthquake
+2.5,"55 km S of Whites City, New Mexico",1795382783560,0,96,earthquake
+2.5,"71 km S of Ivanof Bay, Alaska",1795382517224,0,96,earthquake
+4.5,south of the Fiji Islands,1795381181943,0,312,earthquake
+4.7,"25 km WSW of Isangel, Vanuatu",1795380892753,0,340,earthquake
+2.73,"26 km WNW of Yachats, Oregon",1795377209590,0,115,earthquake
+2.98,"55 km W of Petrolia, CA",1795377028580,0,137,earthquake
+4.6,south of the Fiji Islands,1795370604057,0,326,earthquake
+4.4,"6 km NW of Tsunagi, Japan",1795369571214,0,298,earthquake
+2.8,"168 km NNE of Yakutat, Alaska",1795366233642,0,121,earthquake
+2.6,"32 km NE of Igiugig, Alaska",1795363860178,0,104,earthquake
+2.8,"54 km NW of Toyah, Texas",1795363229622,0,121,earthquake
+3.6,"52 km W of Happy Valley, Alaska",1795361121414,0,199,earthquake
+4.6,"55 km S of Kūh Sefīd, Iran",1795359946361,0,326,earthquake
+3.09,"11 km WSW of Dyersburg, Tennessee",1795359859540,0,176,earthquake
+3.07,"82 km N of Culebra, Puerto Rico",1795349207280,0,145,earthquake
+4.9,south of the Fiji Islands,1795344367004,0,369,earthquake
+2.9,"153 km S of Cordova, Alaska",1795339097540,0,129,earthquake
+5.1,"45 km SE of Ürümqi, China",1795338508009,0,400,earthquake
+5.4,"224 km NE of Bitung, Indonesia",1795334080056,0,449,earthquake
+3.2,"151 km S of Cordova, Alaska",1795332085995,0,158,earthquake
+4.4,"57 km ESE of Dabajuro, Venezuela",1795331569426,0,298,earthquake
+4.9,"246 km ESE of Sarangani, Philippines",1795331218521,0,369,earthquake
+5.0,"15 km NNE of Carhuamayo, Peru",1795326718624,0,390,earthquake
+2.8,"32 km SSE of Hope, New Mexico",1795326069161,0,121,earthquake
+2.7,"15 km SE of Soldotna, Alaska",1795324743714,0,112,earthquake
+4.3,"57 km N of Pucallpa, Peru",1795324196350,0,284,earthquake
+2.5,"89 km WNW of Aleneva, Alaska",1795322039507,0,96,earthquake
+3.6,"196 km WSW of Adak, Alaska",1795319653821,0,199,earthquake
+3.0,"112 km ESE of Akutan, Alaska",1795317414388,0,138,earthquake
+2.8,"49 km ESE of Atka, Alaska",1795316306394,0,121,earthquake
+3.0,"73 km WNW of Aleneva, Alaska",1795306810528,0,138,earthquake
+4.6,"60 km WNW of Abepura, Indonesia",1795302965571,0,326,earthquake
+4.3,south of the Fiji Islands,1795302586835,0,284,earthquake
+4.1,"1 km ENE of Amaroni, Italy",1795298333882,0,259,earthquake
+2.64,"11 km WNW of Calipatria, CA",1795297591510,0,107,earthquake
+4.5,"26 km WSW of Qarah Ẕīā’ od Dīn, Iran",1795296354969,0,312,earthquake
+2.89,"11 km NW of Pinnacles, CA",1795292498630,0,129,earthquake
+4.2,"21 km SSE of Solok, Indonesia",1795290746507,0,271,earthquake
+4.0,"193 km WSW of Adak, Alaska",1795290274265,0,246,earthquake
+4.9,"88 km WNW of El Aguilar, Argentina",1795287784170,0,369,earthquake
+4.3,"15 km WSW of Ollagüe, Chile",1795282862389,0,284,earthquake
+4.6,"68 km SSE of Tateyama, Japan",1795282244504,0,326,earthquake
+4.5,"0 km SSW of La Colorada, Panama",1795281261477,0,312,earthquake
+2.6,"149 km S of Cordova, Alaska",1795280005513,0,104,earthquake
+3.6,"288 km WSW of Adak, Alaska",1795277839204,0,199,earthquake
+4.0,"44 km S of Calama, Chile",1795277079659,0,246,earthquake
+4.1,"237 km NNE of Lospalos, Timor Leste",1795276567655,0,259,earthquake
+2.87,"1 km SW of Pāhala, Hawaii",1795276429910,0,127,earthquake
+2.92,"0 km NNE of Pāhala, Hawaii",1795276424430,0,131,earthquake
+4.6,"18 km ESE of La Romana, Dominican Republic",1795273213140,0,328,earthquake
+3.31,"9 km SE of San Pedro, CA",1795270172520,0,336,earthquake
+4.2,"200 km S of Akhiok, Alaska",1795267563324,0,271,earthquake
+2.5,"6 km NNW of Delta, B.C., MX",1795264880590,0,97,earthquake
+5.9,"238 km SW of Yanglong, China",1795257933230,0,650,earthquake
+4.4,"36 km SSE of Jurm, Afghanistan",1795255831043,0,298,earthquake
+5.2,"112 km SSE of Tateyama, Japan",1795255745474,0,416,earthquake
+6.8,"105 km NE of Lospalos, Timor Leste",1795254129120,0,726,earthquake
+2.67,"10 km NW of Pinnacles, CA",1795251868860,0,110,earthquake
+3.22,"48 km NE of Christiansted, U.S. Virgin Islands",1795251213240,0,160,earthquake
+3.0,"66 km S of Ugashik, Alaska",1795247326640,0,138,earthquake
+4.9,"65 km NNW of Port-Vila, Vanuatu",1795245644218,0,369,earthquake
+3.41,"0 km WSW of Lea Hill, Washington",1795245192240,0,489,earthquake
+4.1,"17 km S of Iztapa, Guatemala",1795243880527,0,259,earthquake
+2.7,"8 km W of Orocovis, Puerto Rico",1795242193420,0,112,earthquake
+2.8,"36 km N of Dawson City, Canada",1795241376128,0,121,earthquake
+2.64,"31 km WSW of Petrolia, CA",1795239408610,0,107,earthquake
+2.9,"74 km SSE of Ugashik, Alaska",1795239019465,0,129,earthquake
+5.0,"0 km NE of Carhuamayo, Peru",1795237924898,0,389,earthquake
+4.1,"28 km NNE of Chenega, Alaska",1795235354724,1,264,earthquake
+3.5,"47 km NW of Ninilchik, Alaska",1795228447347,0,189,earthquake
+4.9,Reykjanes Ridge,1795227877289,0,369,earthquake
+4.9,Reykjanes Ridge,1795224379109,0,369,earthquake
+4.7,"38 km NE of Calama, Chile",1795224249274,0,340,earthquake
+2.84,"10 km E of Cholame, CA",1795221515700,0,124,earthquake
+4.4,"41 km SE of Petropavlovsk-Kamchatsky, Russia",1795221168295,0,298,earthquake
+2.51,"3 km ENE of Nanawale Estates, Hawaii",1795220487300,0,97,earthquake
+2.7,"41 km ENE of Maneadero, B.C., MX",1795219803910,0,112,earthquake
+6.7,"7 km ENE of Carhuamayo, Peru",1795219761810,1,774,earthquake
+2.8,"30 km WSW of Denali Park, Alaska",1795219635701,0,121,earthquake
+4.4,"115 km W of Illapel, Chile",1795217853534,0,298,earthquake
+4.9,"113 km ESE of Pangai, Tonga",1795214079096,0,369,earthquake
+4.2,"65 km W of Ollagüe, Chile",1795213933976,0,271,earthquake
+4.4,Reykjanes Ridge,1795213880701,0,298,earthquake
+4.4,Reykjanes Ridge,1795213846671,0,298,earthquake
+4.4,Reykjanes Ridge,1795206591959,0,298,earthquake
+2.8,"159 km SSW of Akhiok, Alaska",1795201646037,0,121,earthquake
+4.2,"192 km SW of Bluff, New Zealand",1795201494178,0,271,earthquake
+3.5,"59 km SSW of Cantwell, Alaska",1795200311073,0,188,earthquake
+5.1,"32 km NE of Port-Olry, Vanuatu",1795197195442,0,400,earthquake
+3.42,"91 km N of Charlotte Amalie, U.S. Virgin Islands",1795193567200,0,180,earthquake
+4.4,"109 km NNE of Lospalos, Timor Leste",1795192873832,0,298,earthquake
+2.7,"39 km SE of Denali National Park, Alaska",1795187512850,0,112,earthquake
+2.68,"5 km NW of Pinnacles, CA",1795187238700,0,114,earthquake
+4.7,"94 km W of Illapel, Chile",1795184175225,0,340,earthquake
+3.0,"202 km S of Akhiok, Alaska",1795183334679,0,138,earthquake
+2.9,"18 km ENE of Tilden, Texas",1795183057989,0,129,earthquake
+5.1,"15 km SSW of Balangonan, Philippines",1795180144057,0,402,earthquake
+3.94,"1 km NW of Commerce, CA",1795173935140,1,639,earthquake
+2.77,"16 km SSW of Volcano, Hawaii",1795173151820,0,118,earthquake
+3.8,"76 km E of Adak, Alaska",1795172472679,0,222,earthquake
+2.9,"70 km SSE of Kokhanok, Alaska",1795172275711,0,129,earthquake
+4.4,Fiji region,1795171975274,0,298,earthquake
+2.52,"6 km NW of Pinnacles, CA",1795171782770,0,99,earthquake
+4.7,southeast of the Loyalty Islands,1795171724362,0,340,earthquake
+5.0,southeast of the Loyalty Islands,1795170601069,0,385,earthquake
+4.6,"40 km SSE of Koróni, Greece",1795169774294,0,326,earthquake
+3.4,"12 km NNW of Nikiski, Alaska",1795164486974,0,178,earthquake
+5.4,Carlsberg Ridge,1795164251644,0,449,earthquake
+4.7,Carlsberg Ridge,1795164174187,0,340,earthquake
+2.8,"25 km NE of Beluga, Alaska",1795163767388,0,121,earthquake
+2.71,"10 km NW of Pinnacles, CA",1795163764140,0,114,earthquake
+3.06,"10 km NW of Pinnacles, CA",1795163727320,0,145,earthquake
+2.59,"8 km NW of Pinnacles, CA",1795163128950,0,103,earthquake
+2.55,"6 km NW of Pinnacles, CA",1795162485100,0,100,earthquake
+2.54,"6 km NW of Pinnacles, CA",1795161517920,0,99,earthquake
+2.6,"7 km NW of Pinnacles, CA",1795161426280,0,104,earthquake
+3.2,"128 km SSE of Sand Point, Alaska",1795161211836,0,158,earthquake
+2.55,"9 km NW of Pinnacles, CA",1795160787620,0,101,earthquake
+2.68,"5 km NW of Pinnacles, CA",1795159271480,0,111,earthquake
+2.64,"9 km NW of Pinnacles, CA",1795159186810,0,107,earthquake
+3.38,"6 km NW of Pinnacles, CA",1795158865490,0,187,earthquake
+2.53,"8 km NW of Pinnacles, CA",1795157834030,0,99,earthquake
+2.96,"10 km NNW of Pinnacles, CA",1795157553440,0,144,earthquake
+4.98,"10 km NW of Pinnacles, CA",1795157356340,1,1002,earthquake
+3.0,"53 km W of Happy Valley, Alaska",1795155164187,0,138,earthquake
+3.31,"10 km NW of Pinnacles, CA",1795155130440,0,180,earthquake
+3.11,"9 km NW of Pinnacles, CA",1795154003950,0,151,earthquake
+2.51,"46 km NNE of Pa‘auilo, Hawaii",1795152593930,0,98,earthquake
+2.82,"41 km NW of San Antonio, Puerto Rico",1795152010960,0,122,earthquake
+4.9,"54 km W of Madang, Papua New Guinea",1795151865106,0,370,earthquake
+2.6,"42 km WNW of Nanwalek, Alaska",1795149439014,0,104,earthquake
+4.8,"24 km ESE of Calingasta, Argentina",1795143438070,0,356,earthquake
+4.2,"293 km S of Ōyama, Japan",1795137607698,0,271,earthquake
+5.6,southeast of the Loyalty Islands,1795135754102,0,482,earthquake
+2.5,"25 km WSW of Skwentna, Alaska",1795131850615,0,96,earthquake
+2.5,"62 km E of Port Alsworth, Alaska",1795131571293,0,96,earthquake
+2.5,"70 km S of Old Harbor, Alaska",1795128502036,0,96,earthquake
+3.0,"99 km SSW of Kaktovik, Alaska",1795127646332,0,138,earthquake
+2.6,"33 km NE of Diomede, Alaska",1795127429048,0,104,earthquake
+4.5,"236 km W of Tual, Indonesia",1795124973219,0,312,earthquake
+2.52,"42 km WSW of Olancha, CA",1795121367510,0,98,earthquake
+3.0,"69 km E of Port Alsworth, Alaska",1795119836623,0,138,earthquake
+5.3,South Georgia Island region,1795118869383,0,432,earthquake
+5.0,central East Pacific Rise,1795118829754,0,385,earthquake
+4.9,"13 km WNW of Xichang, China",1795113679631,0,369,earthquake
+3.29,"122 km NNE of Punta Cana, Dominican Republic",1795112978630,0,167,earthquake
+3.44,"108 km NNE of Punta Cana, Dominican Republic",1795112341020,0,182,earthquake
+5.1,"99 km WSW of Illapel, Chile",1795111786530,0,400,earthquake
+4.3,"170 km NW of Panguna, Papua New Guinea",1795102700197,0,284,earthquake
+2.6,"56 km NNW of Petersville, Alaska",1795101409696,0,104,earthquake
+2.98,"19 km SW of Toms Place, CA",1795096701570,0,137,earthquake
+2.8,"128 km SSE of Perryville, Alaska",1795096460399,0,121,earthquake
+2.6,"27 km ESE of Chiniak, Alaska",1795095875893,0,104,earthquake
+3.2,"24 km SW of Ackerly, Texas",1795093763372,0,158,earthquake
+3.04,"53 km ESE of Cruz Bay, U.S. Virgin Islands",1795093588440,0,142,earthquake
+4.9,"65 km SSW of Atka, Alaska",1795093522466,0,369,earthquake
+3.3,"26 km WSW of Cantwell, Alaska",1795093492538,0,168,earthquake
+4.7,South Sandwich Islands region,1795093473345,0,340,earthquake
+2.6,"41 km NW of Ninilchik, Alaska",1795091446385,0,104,earthquake
+2.75,"19 km SW of Toms Place, CA",1795091066160,0,116,earthquake
+5.0,"31 km WSW of Rabaul, Papua New Guinea",1795085587767,0,385,earthquake
+4.3,Fiji region,1795084614782,0,284,earthquake
+2.5,"35 km WSW of Venetie, Alaska",1795079576287,0,96,earthquake
+4.7,"92 km W of San Juan, Peru",1795079293359,0,340,earthquake
+4.25,"48 km N of Charlotte Amalie, U.S. Virgin Islands",1795079194910,0,294,earthquake
+4.2,Scotia Sea,1795077325665,0,271,earthquake
+2.5,"129 km S of McCarthy, Alaska",1795074811795,0,96,earthquake
+2.5,"50 km SSE of Denali National Park, Alaska",1795073682552,0,96,earthquake
+2.6,"74 km SSE of Ugashik, Alaska",1795071958305,0,104,earthquake
+3.7,"67 km S of Ugashik, Alaska",1795070964699,0,211,earthquake
+3.51,"42 km N of Kernville, CA",1795070411370,0,193,earthquake
+4.3,"21 km SSE of Ikungi, Tanzania",1795068626169,0,284,earthquake
+2.67,"7 km SSW of Primo Tapia, B.C., MX",1795068166870,0,110,earthquake
+4.8,"23 km SSE of Guayaquil, Ecuador",1795067366623,0,361,earthquake
+3.2,"90 km SSW of Nikolski, Alaska",1795065175857,0,158,earthquake
+3.1,"25 km S of Port Graham, Alaska",1795062130323,0,148,earthquake
+4.9,"36 km NNE of Kilimatinde, Tanzania",1795054283115,0,370,earthquake
+3.4,"60 km S of Sand Point, Alaska",1795053154027,0,178,earthquake
+5.2,"130 km W of Teluk Dalam, Indonesia",1795052088394,0,416,earthquake
+4.8,"40 km NNE of Kilimatinde, Tanzania",1795051773145,0,355,earthquake
+2.5,"31 km S of Denali National Park, Alaska",1795050550757,0,96,earthquake
+2.78,"15 km NNE of Milford, Utah",1795046721480,0,119,earthquake
+2.55,"31 km SE of Esperanza, Puerto Rico",1795045471790,0,100,earthquake
+3.36,"18 km ENE of Borrego Springs, CA",1795045161280,0,189,earthquake
+4.8,"11 km SSW of Santa Gertrudis Miramar, Mexico",1795039612958,0,354,earthquake
+5.2,"169 km S of Attu Station, Alaska",1795037327088,0,416,earthquake
+4.7,"134 km SW of Lorengau, Papua New Guinea",1795034319129,0,340,earthquake
+4.4,"12 km SSE of Jimalalud, Philippines",1795033854635,0,298,earthquake
+5.2,Pacific-Antarctic Ridge,1795029675136,0,416,earthquake
+6.0,Pacific-Antarctic Ridge,1795029263203,0,554,earthquake
+2.55,"14 km N of Susanville, CA",1795027766640,0,100,earthquake
+4.5,"20 km SSW of Ollagüe, Chile",1795027613085,0,312,earthquake
+4.8,"46 km SE of Ikungi, Tanzania",1795025281097,0,355,earthquake
+4.3,"44 km NNE of Kilimatinde, Tanzania",1795025251356,0,285,earthquake
+5.3,"4 km N of Tsunagi, Japan",1795022543428,0,436,earthquake
+2.7,"9 km NW of Seeley Lake, Montana",1795019607127,0,112,earthquake
+2.5,"83 km W of Lincoln City, Oregon",1795019102070,0,96,earthquake
+4.2,off the coast of Oregon,1795019067988,0,271,earthquake
+5.3,"149 km SSW of Merizo Village, Guam",1795018011220,0,432,earthquake
+3.3,"91 km SW of San Clemente Is. (NW tip), CA",1795010325390,0,168,earthquake
+2.85,"33 km SE of Mina, Nevada",1795010209271,0,125,earthquake
+2.8,"64 km ESE of Sand Point, Alaska",1795009775949,0,121,earthquake
+2.93,"49 km W of Petrolia, CA",1795007118670,0,132,earthquake
+3.1,"95 km SSW of Unalaska, Alaska",1795006775547,0,148,earthquake
+3.3,"3 km N of Skwentna, Alaska",1795005967775,0,168,earthquake
+4.0,"137 km WSW of Adak, Alaska",1795004876075,0,246,earthquake
+4.9,West Chile Rise,1795000257037,0,369,earthquake
+2.8,"73 km E of Chignik, Alaska",1794999958520,0,121,earthquake
+3.4,"211 km W of Adak, Alaska",1794998200316,0,178,earthquake
+3.0,"42 km SSW of Adak, Alaska",1794994992688,0,138,earthquake
+5.2,"86 km NW of Ryōtsu-minato, Japan",1794994620617,0,416,earthquake
+2.7,"62 km E of Port Alsworth, Alaska",1794994384132,0,112,earthquake
+2.6,"62 km ENE of Nikolai, Alaska",1794992550783,0,104,earthquake
+4.1,"31 km S of Coquimbo, Chile",1794984349875,0,259,earthquake
+2.5,"42 km SSE of Denali National Park, Alaska",1794983706360,0,96,earthquake
+5.9,"85 km WNW of San Juan, Peru",1794982062780,0,537,earthquake
+3.94,"96 km SW of San Clemente Is. (NW tip), CA",1794979661920,0,240,earthquake
+5.2,Galapagos Triple Junction region,1794979543280,0,416,earthquake
+4.8,"67 km NNE of Ruteng, Indonesia",1794979495060,0,354,earthquake
+2.5,"92 km NE of Lime Village, Alaska",1794978946893,0,96,earthquake
+4.4,south of the Fiji Islands,1794977940780,0,298,earthquake
+4.1,"95 km SSE of Tmourghout, Morocco",1794977351633,0,259,earthquake
+5.8,"40 km N of Ruteng, Indonesia",1794976892015,0,518,earthquake
+5.2,"54 km NNE of Ruteng, Indonesia",1794975695658,0,416,earthquake
+5.8,"99 km ESE of Madang, Papua New Guinea",1794973354269,0,519,earthquake
+2.6,"10 km W of Healy, Alaska",1794973190917,0,104,earthquake
+4.8,"134 km ENE of Nabire, Indonesia",1794972238023,0,354,earthquake
+2.6,"11 km SW of Weston, Colorado",1794970893114,0,104,earthquake
+4.06,"47 km S of Boca de Yuma, Dominican Republic",1794969976700,0,255,earthquake
+5.8,"150 km SW of Merizo Village, Guam",1794968576671,0,520,earthquake
+3.1,"179 km W of Adak, Alaska",1794967682278,0,148,earthquake
+2.9,"117 km SSE of Sand Point, Alaska",1794964558314,0,129,earthquake
+2.7,"63 km SE of Denali National Park, Alaska",1794963771682,0,112,earthquake
+5.3,"17 km ESE of Comandău, Romania",1794962936305,0,618,earthquake
+5.3,"7 km SE of Karakenja, Tajikistan",1794962791418,0,432,earthquake
+2.8,"29 km S of Glacier View, Alaska",1794961582809,0,121,earthquake
+4.5,Owen Fracture Zone region,1794957933527,0,312,earthquake
+3.0,"103 km N of Akutan, Alaska",1794957286603,0,138,earthquake
+4.6,"10 km ESE of Metahāra, Ethiopia",1794955925954,0,326,earthquake
+2.9,"51 km SSW of Nanwalek, Alaska",1794953967818,0,129,earthquake
+4.6,east of Severnaya Zemlya,1794953606244,0,326,earthquake
+3.4,"140 km SSE of False Pass, Alaska",1794948331546,0,178,earthquake
+3.0,"206 km SSE of Chiniak, Alaska",1794947130832,0,138,earthquake
+3.0,"123 km SSE of False Pass, Alaska",1794946665262,0,138,earthquake
+4.4,"35 km WSW of Palauig, Philippines",1794946348569,0,298,earthquake
+3.0,"45 km SSE of Unalaska, Alaska",1794945528993,0,138,earthquake
+4.1,"12 km SE of Pocsi, Peru",1794941440298,0,259,earthquake
+4.5,"26 km NW of Port-Vila, Vanuatu",1794939319134,0,312,earthquake
+4.3,"1 km NW of Macaracas, Panama",1794938552376,0,286,earthquake
+3.0,"83 km ENE of Ugashik, Alaska",1794935562571,0,138,earthquake
+4.3,Fiji region,1794933794202,0,284,earthquake
+3.3,"192 km W of Langlois, Oregon",1794933774346,0,168,earthquake
+2.7,"15 km SE of Deering, Alaska",1794933494100,0,112,earthquake
+4.8,"141 km NW of Kavieng, Papua New Guinea",1794933358497,0,354,earthquake
+2.8,"94 km SSE of Sand Point, Alaska",1794933008931,0,121,earthquake
+4.9,"135 km S of Vilyuchinsk, Russia",1794930567642,0,369,earthquake
+4.9,"102 km ENE of Ozernovskiy, Russia",1794930528868,0,369,earthquake
+4.4,"5 km NE of Bachajón, Mexico",1794929948661,0,298,earthquake
+4.0,"249 km WSW of Adak, Alaska",1794928779728,0,246,earthquake
+4.2,"86 km SSW of Atocha, Bolivia",1794927617137,0,271,earthquake
+4.4,"21 km ESE of Khorugh, Tajikistan",1794927549523,0,298,earthquake
+4.4,"11 km SE of Shahrud, Iran",1794927240982,0,298,earthquake
+3.0,"14 km SSW of Falls City, Texas",1794925527642,0,139,earthquake
+5.2,south of the Kermadec Islands,1794925236814,0,416,earthquake
+2.5,"41 km SSW of Akhiok, Alaska",1794922451233,0,96,earthquake
+3.36,"29 km ENE of Cruz Bay, U.S. Virgin Islands",1794920404790,0,174,earthquake
+2.8,"29 km E of Chenega, Alaska",1794919643994,0,121,earthquake
+4.5,"95 km W of Alotau, Papua New Guinea",1794918376641,0,312,earthquake
+2.5,"31 km N of Skwentna, Alaska",1794917186061,0,96,earthquake
+2.6,"66 km ENE of Port Alsworth, Alaska",1794915370963,0,104,earthquake
+4.2,"141 km NE of Lospalos, Timor Leste",1794914126741,0,271,earthquake
+4.5,"8 km WNW of Piti Village, Guam",1794913979760,0,314,earthquake
+4.9,"173 km ENE of Noda, Japan",1794911578639,0,369,earthquake
+4.9,"43 km NW of Oxford, New Zealand",1794911448773,0,382,earthquake
+2.9,"15 km E of Pearsall, Texas",1794909298660,0,129,earthquake
+2.9,"36 km WNW of Skwentna, Alaska",1794908616714,0,129,earthquake
+2.7,"101 km SE of False Pass, Alaska",1794905929627,0,112,earthquake
+3.8,"35 km ENE of Miguel Ahumada, Mexico",1794903959326,0,223,earthquake
+2.6,"75 km W of Akhiok, Alaska",1794901386442,0,104,earthquake
+3.6,"84 km S of Unalaska, Alaska",1794901147028,0,199,earthquake
+2.63,"14 km NNE of Milford, Utah",1794899614380,0,106,earthquake
+2.6,"64 km S of Akutan, Alaska",1794899147338,0,104,earthquake
+2.5,"15 km NE of Kaltag, Alaska",1794897741802,0,96,earthquake
+3.01,"11 km ESE of Silver Springs, Nevada",1794897125466,0,143,earthquake
+4.2,"59 km WNW of Malfa, Italy",1794894704718,0,271,earthquake
+4.5,south of the Fiji Islands,1794894474690,0,312,earthquake
+3.6,"15 km WSW of Akhiok, Alaska",1794891410638,0,199,earthquake
+3.3,"60 km WNW of Anchor Point, Alaska",1794890573861,0,168,earthquake
+3.39,"99 km NNE of Punta Cana, Dominican Republic",1794889197480,0,177,earthquake
+4.9,"26 km E of Port-Olry, Vanuatu",1794887552360,0,369,earthquake
+2.7,"87 km SSE of Chenega, Alaska",1794882586651,0,112,earthquake
+5.0,"137 km SSE of Kirakira, Solomon Islands",1794880817654,0,385,earthquake
+3.9,"51 km S of Denali National Park, Alaska",1794880566600,0,234,earthquake
+4.4,"78 km NE of Ruteng, Indonesia",1794876556607,0,298,earthquake
+2.8,"94 km SSE of Akutan, Alaska",1794875499163,0,121,earthquake
+4.5,"74 km E of Tadine, New Caledonia",1794875248181,0,312,earthquake
+2.5,"9 km SSW of Willow, Alaska",1794870325904,0,96,earthquake
+4.5,Mid-Indian Ridge,1794870005896,0,312,earthquake
+4.6,"133 km N of Caluula, Somalia",1794867686075,0,326,earthquake
+4.4,"139 km WSW of Tual, Indonesia",1794867453126,0,298,earthquake
+4.2,"155 km N of Caluula, Somalia",1794867444291,0,271,earthquake
+4.7,"156 km SSE of Isangel, Vanuatu",1794866159412,0,340,earthquake
+4.8,"107 km NE of Norsup, Vanuatu",1794864449684,0,354,earthquake
+2.79,"16 km NW of Lopez Point, CA",1794863839700,0,121,earthquake
+6.6,"147 km WSW of Tual, Indonesia",1794863480489,0,674,earthquake
+4.4,"52 km W of Valparaíso, Chile",1794858715895,0,298,earthquake
+4.5,"103 km WSW of Changuillo, Peru",1794858294003,0,312,earthquake
+4.6,"144 km NW of Kavieng, Papua New Guinea",1794857580666,0,326,earthquake
+4.7,"77 km WSW of Changuillo, Peru",1794857194776,0,340,earthquake
+3.1,"63 km NNE of Stony River, Alaska",1794856040534,0,148,earthquake
+3.6,"64 km SSE of Unalaska, Alaska",1794852496110,0,199,earthquake
+4.1,"43 km S of Jurm, Afghanistan",1794852145427,0,259,earthquake
+3.9,"Rat Islands, Aleutian Islands, Alaska",1794846452660,0,234,earthquake
+4.8,"28 km SW of Changuillo, Peru",1794846198453,0,355,earthquake
+5.4,"95 km WSW of Changuillo, Peru",1794845805265,0,449,earthquake
+2.8,"11 km SSE of Stonewall Gap, Colorado",1794843710996,0,121,earthquake
+3.2,"164 km W of Trinidad, California",1794837750072,0,158,earthquake
+4.6,"113 km ESE of Wadomari, Japan",1794835945974,0,326,earthquake
+4.8,"166 km N of Caluula, Somalia",1794835833980,0,354,earthquake
+4.5,"78 km S of Severo-Kuril’sk, Russia",1794835521731,0,312,earthquake
+3.7,"55 km ENE of Pedro Bay, Alaska",1794832569545,0,211,earthquake
+2.8,"39 km ESE of Yakutat, Alaska",1794831859280,0,121,earthquake
+2.6,"15 km ESE of Ninilchik, Alaska",1794824475655,0,104,earthquake
+5.0,"68 km S of Sarangani, Philippines",1794813254483,0,385,earthquake
+4.3,"297 km SSE of Amahai, Indonesia",1794812889864,0,284,earthquake
+4.3,"124 km NE of Quiaca, Peru",1794811654187,0,284,earthquake
+2.7,"20 km NNW of Lime Village, Alaska",1794810765483,0,112,earthquake
+2.5,"45 km E of Denali National Park, Alaska",1794806198125,0,96,earthquake
+2.5,"11 km NNE of Susitna North, Alaska",1794803612584,0,96,earthquake
+5.4,"20 km NW of Anamizu, Japan",1794803051718,0,449,earthquake
+2.5,"18 km ESE of Pearsall, Texas",1794798493597,0,96,earthquake
+3.6,"271 km SE of Chiniak, Alaska",1794798386067,0,199,earthquake
+4.4,"2 km SW of Santa María Huazolotitlán, Mexico",1794791340831,0,298,earthquake
+4.3,"180 km SW of Bandar Lampung, Indonesia",1794789819546,0,284,earthquake
+3.09,"66 km W of Kalaoa, Hawaii",1794789721020,0,147,earthquake
+2.7,"16 km WSW of Susitna, Alaska",1794787595587,0,112,earthquake
+4.3,"207 km NNE of Lospalos, Timor Leste",1794786852341,0,284,earthquake
+4.4,"71 km WNW of Abra Pampa, Argentina",1794783861682,0,298,earthquake
+4.8,"144 km ESE of Petropavlovsk-Kamchatsky, Russia",1794782298982,0,354,earthquake
+4.0,"48 km SE of Attu Station, Alaska",1794780418246,0,246,earthquake
+2.7,"7 km S of Knik, Alaska",1794779328120,0,112,earthquake
+4.9,"41 km S of Jurm, Afghanistan",1794778641794,0,369,earthquake
+2.5,"87 km SSE of Ugashik, Alaska",1794776429551,0,96,earthquake
+5.0,"256 km SSE of Ambon, Indonesia",1794775916298,0,385,earthquake
+2.6,"43 km SSE of King Salmon, Alaska",1794773334808,0,104,earthquake
+3.05,"18 km SE of Silver Springs, Nevada",1794772687107,0,145,earthquake
+2.5,"18 km NW of Old Harbor, Alaska",1794772058312,0,96,earthquake
+4.4,"102 km ESE of Sarangani, Philippines",1794771519971,0,298,earthquake
+4.2,"26 km E of Estique, Peru",1794768741570,0,271,earthquake
+2.6,"155 km SE of Chignik, Alaska",1794767132230,0,104,earthquake
+5.0,"74 km N of Pārūn, Afghanistan",1794764916959,0,385,earthquake
+3.5,"20 km ENE of Susitna North, Alaska",1794762829968,0,190,earthquake
+4.2,"273 km W of Tual, Indonesia",1794758774983,0,271,earthquake
+3.4,"114 km NNE of Punta Cana, Dominican Republic",1794757964490,0,178,earthquake
+5.1,"169 km NW of Gorontalo, Indonesia",1794757274978,0,400,earthquake
+2.5,"10 km WSW of Manley Hot Springs, Alaska",1794756349835,0,96,earthquake
+4.4,"27 km SW of Minbu, Burma (Myanmar)",1794753123788,0,298,earthquake
+3.0,"3 km N of Capulin, New Mexico",1794752996330,0,140,earthquake
+2.6,"60 km SE of Cantwell, Alaska",1794752430226,0,104,earthquake
+4.6,"27 km ESE of Union, Philippines",1794752272535,0,326,earthquake
+5.5,"9 km E of Union, Philippines",1794750095701,0,472,earthquake
+3.4,"69 km NNW of Chalkyitsik, Alaska",1794749076555,0,178,earthquake
+2.6,"131 km E of Chignik, Alaska",1794747098361,0,104,earthquake
+3.06,"6 km E of Calumet, Oklahoma",1794742148070,0,146,earthquake
+4.1,"39 km SSW of La Tirana, Chile",1794741836446,0,262,earthquake
+4.1,"54 km W of Valparaíso, Chile",1794738551658,0,259,earthquake
+4.3,"52 km SSE of Labuan Bajo, Indonesia",1794734691111,0,284,earthquake
+2.7,"56 km E of Pedro Bay, Alaska",1794734327165,0,112,earthquake
+4.4,south of the Fiji Islands,1794732606639,0,298,earthquake
